@@ -1,3 +1,8 @@
+--
+title: PotatoProgramming
+date: 01.08.2021
+
+
 Draft:
 
 Main Idea:
